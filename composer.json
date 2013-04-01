@@ -1,0 +1,25 @@
+{
+    "name": "nineteenfeet/nf-array-to-xml",
+    "description": "Array to XML and XML to Array conversation by Lalit Patel",
+    "keywords": [
+        "array", "xml", "conversion", 
+        "xml to array", "array to xml",
+        "xml conversion", "array conversion"
+    ],
+    "homepage": "http://github.com/nineteenfeet/NFArrayToXml",    
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Rob Allen",
+            "email": "rob@nineteenfeet.com",
+            "homepage": "http://nineteenfeet.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "NFArrayToXml": "library/" }
+    }
+}
