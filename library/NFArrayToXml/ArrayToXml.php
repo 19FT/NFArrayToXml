@@ -2,8 +2,8 @@
 
 namespace NFArrayToXml;
 
-use \DomDocument;
-use \Exception;
+use DomDocument;
+use Exception;
 
 /**
  * Array2XML: A class to convert array in PHP to XML
